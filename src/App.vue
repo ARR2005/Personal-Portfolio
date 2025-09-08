@@ -3,7 +3,7 @@
 </script>
 
 <template>
-<div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-100">
+<div className="min-h-screen bg-gradient-to-br from-slate-100 via-gray-400 to-cyan-500">
   <Navigation />
   <section className="pt-24 pb-16 px-6">
     <div className="max-w-6xl mx-auto">

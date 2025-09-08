@@ -12,10 +12,10 @@
         </div>
         <div>
             <nav class="hidden md:flex space-x-2">
-                <Button variant="outline" size="lg" id="button1"> {{ nav.Home }}</Button>
-                <Button variant="outline" size="lg" id="button2"> {{ nav.Skill }}</Button>
-                <Button variant="outline" size="lg" id="button3"> {{ nav.Case }}</Button>
-                <Button variant="outline" size="lg" id="button4"> {{ nav.Contact }}</Button>
+                <Button variant="ghost" size="lg" id="button1"> {{ nav.Home }}</Button>
+                <Button variant="ghost" size="lg" id="button2"> {{ nav.Skill }}</Button>
+                <Button variant="ghost" size="lg" id="button3"> {{ nav.Case }}</Button>
+                <Button variant="ghost" size="lg" id="button4"> {{ nav.Contact }}</Button>
             </nav>
         </div>
     </div>
